@@ -4,7 +4,7 @@ A clean, responsive HTML/CSS web page that displays a structured weekly study sc
 
 ## 🚀 How to Run & View
 
-1. **Live Demo:** Visit the hosted page directly at `https://msknh3x.github.io/Engineering-student-schedule/table.html`.
+1. **Live Demo:** Visit the hosted page directly at https://msknh3x.github.io/Engineering-student-schedule/table.html
 2. **Run Locally:**
    * Clone or download this repository.
    * Open `table.html` directly in any web browser.
